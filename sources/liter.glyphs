@@ -1,5 +1,5 @@
 {
-.appVersion = "3306";
+.appVersion = "3436";
 .formatVersion = 3;
 DisplayStrings = (
 "/.notdef ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzÁĂǍÂÄÀĀĄÅÃÆĆČÇĊÐĎĐÉĚÊËĖÈĒĘĞĢĠĦĲÍÎÏİÌĪĮĶĹĽĻŁŃŇŅÑŊÓÔÖÒŐŌØÕŒÞŔŘŖŚŠŞȘẞŤȚÚŬÛÜÙŰŪŲŮẂŴẄẀÝŶŸỲŹŽŻáăǎâäàāąåãæćčçċðďđéěêëėèēęğģġħıíîï/idotaccent ìĳīįȷķĺľļłńňņñŋóôöòőōøõœþŕřŗśšşșßťțúŭûüùűūųůẃŵẅẁýŷÿỳźžż̧̨̦̈̇̀́̋̂̌̆̊̃̄̒/caroncomb.alt ̵̶̷̸/y.ss01 ªºАБВГЃҐДЕЀЁЖЗИЙЍКЌЛМНОПРСТУЎФХЧЦШЩЏЬЫЪЉЊЅЄЭІЇЈЋЮЯЂ/U-cy.ss01 абвгѓґдеѐёжзийѝкќлмнопрстуўфхчцшщџьыъљњѕєэіїјћюяђ/be-cy.ss01/u-cy.ss01 0123456789/zero.ss01/one.ss01/four.ss01  /nbspace/.null .,:;…!¡?¿·•*#///backslash/periodcentered.loclCAT/periodcentered.loclCAT.case -–—_(){}[]‚„“”‘’«»‹›\"'@&¶§©®™°|№¢$€₽£¥+−×÷=><~^%΄¨˙`´˝ˆˇ˘˚˜¯¸˛ʼ",
@@ -15,7 +15,7 @@ m,
 "њ",
 "dďlľ :;
 Ł",
-"̧ÇŞcçş",
+"ÇÇŞçcçsş",
 "ń",
 "΄
 ÁĂǍÂÄÀĀÅÃĆČĊĎÉĚÊËĖÈĒĞĠÍÎÏİÌĹŃŇÑÓÔÖÒŐŌÕŔŘŚŠŤÚŬÛÜÙŰŪŮẂŴẄẀÝŶŸỲŹŽŻ. ЃЀЁЙЍЌЎ",
@@ -40,7 +40,7 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ
 "/y.ss01",
 "/.notdef",
 "ćčçċ",
-"/U-cy.ss01"
+"https://// m//"
 );
 customParameters = (
 {
@@ -3606,13 +3606,13 @@ unicode = 98;
 glyphname = c;
 kernLeft = c;
 kernRight = c;
-lastChange = "2025-01-08 13:57:27 +0000";
+lastChange = "2025-11-12 14:39:37 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-pos = (277,-13);
+pos = (277,0);
 },
 {
 name = top;
@@ -5150,13 +5150,13 @@ unicode = 114;
 glyphname = s;
 kernLeft = s;
 kernRight = s;
-lastChange = "2025-01-08 14:09:36 +0000";
+lastChange = "2025-11-12 14:39:52 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-pos = (255,-12);
+pos = (255,0);
 },
 {
 name = top;
@@ -6441,7 +6441,7 @@ unicode = 268;
 glyphname = Ccedilla;
 kernLeft = C;
 kernRight = C;
-lastChange = "2025-01-07 18:20:29 +0000";
+lastChange = "2025-11-12 14:39:29 +0000";
 layers = (
 {
 background = {
@@ -8571,7 +8571,7 @@ unicode = 352;
 glyphname = Scedilla;
 kernLeft = S;
 kernRight = S;
-lastChange = "2025-01-07 18:20:43 +0000";
+lastChange = "2025-11-12 14:39:29 +0000";
 layers = (
 {
 background = {
@@ -10288,7 +10288,7 @@ unicode = 269;
 glyphname = ccedilla;
 kernLeft = c;
 kernRight = c;
-lastChange = "2025-01-07 18:21:31 +0000";
+lastChange = "2025-11-12 14:39:37 +0000";
 layers = (
 {
 background = {
@@ -10309,7 +10309,7 @@ shapes = (
 ref = c;
 },
 {
-pos = (52,-13);
+pos = (52,0);
 ref = cedillacomb;
 }
 );
@@ -12809,7 +12809,7 @@ unicode = 353;
 glyphname = scedilla;
 kernLeft = s;
 kernRight = s;
-lastChange = "2025-01-07 18:20:53 +0000";
+lastChange = "2025-11-12 14:39:52 +0000";
 layers = (
 {
 background = {
@@ -12830,7 +12830,7 @@ shapes = (
 ref = s;
 },
 {
-pos = (30,-12);
+pos = (30,0);
 ref = cedillacomb;
 }
 );
@@ -12863,7 +12863,7 @@ shapes = (
 ref = s;
 },
 {
-pos = (185,24);
+pos = (185,36);
 ref = commaaccentcomb;
 }
 );
@@ -14946,7 +14946,7 @@ unicode = 806;
 },
 {
 glyphname = cedillacomb;
-lastChange = "2025-01-08 14:09:06 +0000";
+lastChange = "2025-11-12 14:39:23 +0000";
 layers = (
 {
 anchors = (
@@ -24221,7 +24221,7 @@ unicode = 35;
 glyphname = slash;
 kernLeft = slash;
 kernRight = slash;
-lastChange = "2024-12-11 03:28:41 +0000";
+lastChange = "2025-11-12 14:31:47 +0000";
 layers = (
 {
 background = {
@@ -29485,7 +29485,7 @@ quoteright = -30;
 "@MMK_R_V" = -28;
 "@MMK_R_W" = -18;
 "@MMK_R_Y" = -50;
-"@MMK_R_slash" = -80;
+"@MMK_R_slash" = -10;
 "@MMK_R_uni0402" = -40;
 "@MMK_R_uni040E" = -10;
 };
