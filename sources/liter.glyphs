@@ -20,8 +20,6 @@ m,
 "΄
 ÁĂǍÂÄÀĀÅÃĆČĊĎÉĚÊËĖÈĒĞĠÍÎÏİÌĹŃŇÑÓÔÖÒŐŌÕŔŘŚŠŤÚŬÛÜÙŰŪŮẂŴẄẀÝŶŸỲŹŽŻ. ЃЀЁЙЍЌЎ",
 "Ł",
-"áăǎâäàāåãćčċðďđéěêëėèēğģġħíîïìīľńňnñóôöòőōõŕřśšťúŭûüùűūůẃŵẅẁýŷÿỳźžż
-иѝгѓґeеѐёйѝкќўіїј",
 "ГЃEЕЀЁИЙЍKКЌУЎ",
 "eеéěêëėèē",
 "̧̨̦̈̇̀́̋̂̌̆̊̃̄̒/caroncomb.alt ̵̶̷̸̣
@@ -38,9 +36,8 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ
 "Ş",
 "ş",
 "/y.ss01",
-"/.notdef",
 "ćčçċ",
-"https://// m//"
+"  https://// m//  "
 );
 customParameters = (
 {
@@ -24221,7 +24218,7 @@ unicode = 35;
 glyphname = slash;
 kernLeft = slash;
 kernRight = slash;
-lastChange = "2025-11-12 14:31:47 +0000";
+lastChange = "2025-11-12 14:45:53 +0000";
 layers = (
 {
 background = {
@@ -29485,7 +29482,7 @@ quoteright = -30;
 "@MMK_R_V" = -28;
 "@MMK_R_W" = -18;
 "@MMK_R_Y" = -50;
-"@MMK_R_slash" = -10;
+"@MMK_R_slash" = -5;
 "@MMK_R_uni0402" = -40;
 "@MMK_R_uni040E" = -10;
 };
